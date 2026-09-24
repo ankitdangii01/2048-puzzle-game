@@ -1,0 +1,6 @@
+{
+  "name": "2048 Infinity - Infinite Progression Puzzle",
+  "description": "An evolved 2048 puzzle game featuring infinite milestone progression, special ability tiles, multiple game modes, sound effects, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
